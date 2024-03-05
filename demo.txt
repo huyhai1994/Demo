@@ -2,5 +2,5 @@ Hello CO224G1
 git init: khởi tạo local repository
 git add < tên - file> : đẩy file demo.txt vào staging area (vùng nhớ)
 git commit -m "hello git": đưa thay đổi vào local repo, đồng thời lưu trữ lịch sử (tạo 1 snap shot)
-git remote : kết nối local repo với remote repo
+git remote : kết nối local repo với remote repo (làm 1 lần)
 git push origion master: đẩy code từ local repo lên remote repo
